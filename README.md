@@ -1,4 +1,4 @@
-# Bellcorp Event Management Application
+#  Event Management Application
 
 ---
 
