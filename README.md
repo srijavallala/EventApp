@@ -1,5 +1,7 @@
 #  Event Management Application
 
+---
+
 ## 1. Project Overview
 Bellcorp Event Management is a full-stack web application that allows users to browse events, register for them, and manage their registrations in a personalized dashboard. It demonstrates authentication, database relationships, and dynamic event handling.
 
