@@ -1,5 +1,4 @@
 #  Event Management Application
-
 ---
 
 ## 1. Project Overview
